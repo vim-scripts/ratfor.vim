@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=902
+
+RATFOR is a dialect of FORTRAN made by
+the creators of C. RATFOR is a preprocessor that provides C like control flow to FORTRAN.
+  
+So ratfor.vim implements this idea.
+ 
